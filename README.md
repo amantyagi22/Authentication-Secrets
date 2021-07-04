@@ -12,7 +12,7 @@
 
 ### Register
 
-<img src="https://github.com/amantyagi22/Authentication-Secrets/blob/main/images/Register.png.png"/>
+<img src="https://github.com/amantyagi22/Authentication-Secrets/blob/main/images/Register.png?raw=true"/>
 
 ### Secrets
 
